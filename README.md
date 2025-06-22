@@ -1,21 +1,42 @@
-# Hi, I’m Ewald Van der Merwe
+# Ewald Van der Merwe
 
-I'm a computer science student and passionate developer with a strong background in system administration and networking. I enjoy working on web development, server-side scripting, and low-level programming.
+I'm a computer science student with a growing background in development, system administration, and networking. I focus on practical, hands-on work — building web tools, scripting servers, and working with low-level programming when needed. Still learning, but always improving.
 
-## Tech Stack & Experience
-- **Linux & Bash** – Server management, automation, and scripting
-- **C++** – Systems programming and performance-focused development
-- **HTML, CSS, PHP** – Frontend and backend development for dynamic web applications
-- **Networking** – ISP-level router configuration, IP phones, VPNs, and server deployment
+---
+
+## Technical Skills
+
+- **Linux & Bash** – Server setup, scripting, and automation  
+- **C++** – Systems programming and performance-focused development  
+- **HTML, CSS, PHP** – Web development, from frontend to backend  
+- **Networking** – Router configuration, VPNs, IP phones, and infrastructure deployment  
+- **Databases** – Experienced with MariaDB in web and server projects  
+- **Tools** – Vim, VS Code, Apache, XAMPP, DaVinci Resolve (video editing)
+
+---
 
 ## Projects
-- **Devrealm**: A web hosting and management platform offering domain services, account dashboards, and a modular website builder.
 
-## Looking to Collaborate On
-- Open-source web hosting tools
-- C++ backend services or command-line utilities
-- Secure authentication and access management systems
+### Devrealm  
+A platform for web hosting and site management.  
+Includes:  
+- Domain and DNS services  
+- Account and reseller dashboard  
+- Modular website builder  
+(Currently under development with a teammate)
 
-## How to Reach Me
-- Email: ewals@devrealm.co.za
-- GitHub: [@EwaldVDM](https://github.com/EwaldVDM)
+---
+
+## Areas of Interest
+
+- Linux-based infrastructure and tooling  
+- Command-line and backend utilities in C++ or shell  
+- Web hosting automation  
+- Secure authentication and system access controls  
+
+---
+
+## Contact
+
+- Email: **ewald@devrealm.co.za**  
+- GitHub: [**github.com/EwaldVDM**](https://github.com/EwaldVDM)
